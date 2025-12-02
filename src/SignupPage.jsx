@@ -32,11 +32,11 @@ function SignupPage() {
 
                 <div className="hero-content">
                     <h1 className="hero-title">
-                        Dream, Chat, Create<br />
-                        Your <span className="hero-highlight">24/7 AI Team</span>
+                        The single environment<br />
+                        for <span className="hero-highlight">creation&nbsp;and&nbsp;oversight</span>.
                     </h1>
                     <p className="hero-subtitle">
-                        Powering the First AI Software Company
+                        Where code deployment meets continuous management.
                     </p>
 
                     <img

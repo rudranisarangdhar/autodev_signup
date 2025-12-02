@@ -21,11 +21,11 @@ function LoginPage() {
 
                 <div className="hero-content">
                     <h1 className="hero-title">
-                        Dream to Deployment<br />
-
+                        The single environment<br />
+                        for <span className="hero-highlight">creation&nbsp;and&nbsp;oversight</span>.
                     </h1>
                     <p className="hero-subtitle">
-                        Your round-the-clock AI software partner.
+                        Where code deployment meets continuous management.
                     </p>
 
                     <img
